@@ -50,3 +50,19 @@ out = transformer_decoder(tgt, memory)
 Make sure `norm` argument is left as `None` as to not use `LayerNorm` in the Transformer.
 
 See https://pytorch.org/docs/master/nn.html#torch.nn.Transformer for details on how to integrate customer Transformer layers to Pytorch.
+
+# Citation
+If you find `rezero` useful for your research, please cite our paper:
+```
+@inproceedings{BachMajMaoCottMcAulA20,
+    title = "ReZero is All You Need: Fast Convergence at Large Depth",
+    author = "Bachlechner, Thomas  and
+      Majumder, Bodhisattwa Prasad,
+      Mao, Huanru Henry and
+      Cottrell, Garrison W. and
+      McAuley, Julian",
+    booktitle = "arXiv",
+    year = "2020",
+    url = "https://arxiv.org/abs/2003.04887"
+}
+```
