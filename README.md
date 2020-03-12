@@ -54,7 +54,7 @@ See https://pytorch.org/docs/master/nn.html#torch.nn.Transformer for details on 
 # Citation
 If you find `rezero` useful for your research, please cite our paper:
 ```
-@inproceedings{BachMajMaoCottMcAulA20,
+@inproceedings{BacMajMaoCotMcA20,
     title = "ReZero is All You Need: Fast Convergence at Large Depth",
     author = "Bachlechner, Thomas  and
       Majumder, Bodhisattwa Prasad,
