@@ -57,7 +57,7 @@ If you find `rezero` useful for your research, please cite our paper:
 @inproceedings{BacMajMaoCotMcA20,
     title = "ReZero is All You Need: Fast Convergence at Large Depth",
     author = "Bachlechner, Thomas  and
-      Majumder, Bodhisattwa Prasad,
+      Majumder, Bodhisattwa Prasad
       Mao, Huanru Henry and
       Cottrell, Garrison W. and
       McAuley, Julian",
