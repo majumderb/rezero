@@ -4,7 +4,13 @@
 
 Thomas Bachlechner*, Bodhisattwa Prasad Majumder*, Huanru Henry Mao*, Garrison W. Cottrell, Julian McAuley (* denotes equal contributions)
 
-This repository contains the ReZero-Transformer implementation from the paper. It matches Pytorch's Transformer and can be easily used as a drop-in replacement. See sections below for installation and usage.
+This repository contains the ReZero-Transformer implementation from the paper. It matches Pytorch's Transformer and can be easily used as a drop-in replacement. 
+
+Quick Links:
+- [Installation](https://github.com/majumderb/rezero/blob/master/README.md#installation)
+- [Usage](https://github.com/majumderb/rezero/blob/master/README.md#usage)
+- [Tutorials](https://github.com/majumderb/rezero/blob/master/README.md#tutorials)
+- [Citation](https://github.com/majumderb/rezero/blob/master/README.md#citation)
 
 # Abstract
 
