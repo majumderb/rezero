@@ -51,6 +51,13 @@ Make sure `norm` argument is left as `None` as to not use `LayerNorm` in the Tra
 
 See https://pytorch.org/docs/master/nn.html#torch.nn.Transformer for details on how to integrate customer Transformer layers to Pytorch.
 
+# Tutorials
+
+1. [Training 128 layer ReZero Transformer on WikiText-2 language modeling](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZero-Deep_Fast_Transformer.ipynb)
+2. [Training 10,000 layer ReZero neural network on CIFAR-10 data](https://github.com/tbachlechner/ReZero-examples/blob/master/ReZero-Deep_Fast_NeuralNetwork.ipynb)
+
+Watch for more tutorials in this [space](https://github.com/tbachlechner/ReZero-examples).
+
 # Citation
 If you find `rezero` useful for your research, please cite our paper:
 ```BibTex
