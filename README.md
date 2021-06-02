@@ -1,6 +1,7 @@
 # ReZero for Deep Neural Networks
 
 [**ReZero is All You Need: Fast Convergence at Large Depth**](https://arxiv.org/abs/2003.04887);
+
 *Uncertainty in AI (UAI), 2021*.
 
 Thomas Bachlechner*, Bodhisattwa Prasad Majumder*, Huanru Henry Mao*, Garrison W. Cottrell, Julian McAuley (* denotes equal contributions)
