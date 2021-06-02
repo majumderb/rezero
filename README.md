@@ -1,6 +1,6 @@
 # ReZero for Deep Neural Networks
 
-[**ReZero is All You Need: Fast Convergence at Large Depth**](https://arxiv.org/abs/2003.04887). *Uncertainty in AI (UAI), 2021*.  Thomas Bachlechner*, Bodhisattwa Prasad Majumder*, Huanru Henry Mao*, Garrison W. Cottrell, Julian McAuley (* denotes equal contributions)
+[**ReZero is All You Need: Fast Convergence at Large Depth**](https://arxiv.org/abs/2003.04887).\*Uncertainty in AI (UAI), 2021*.\Thomas Bachlechner*, Bodhisattwa Prasad Majumder*, Huanru Henry Mao*, Garrison W. Cottrell, Julian McAuley (* denotes equal contributions)
 
 This repository contains the ReZero-Transformer implementation from the paper. It matches Pytorch's Transformer and can be easily used as a drop-in replacement. 
 
